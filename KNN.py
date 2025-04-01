@@ -1,7 +1,3 @@
-#Name: Kaitlynn Pham 
-#Course : CS 422 1001
-#Assignment : HW 2 
-
 import pandas as pd
 import numpy as np 
 
